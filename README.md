@@ -2,13 +2,13 @@ Olá, eu me chamo Henédio Bernardino Pedrosa Neto, estudante de Relações Inte
 
 Você também me encontrará aqui:
 <div>
-&nbsp;<a href="https://www.kaggle.com/henedioneto">
+&nbsp;<a href="https://www.kaggle.com/henedioneto" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.linkedin.com/in/henedio-neto-616706268/">
+&nbsp;<a href="https://www.linkedin.com/in/henedio-neto-616706268/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.codewars.com/users/HenedioNeto/">
+&nbsp;<a href="https://www.codewars.com/users/HenedioNeto/" target="_blank">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
 </a>&nbsp;
 </div>
