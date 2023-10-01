@@ -12,7 +12,7 @@ Olá, eu me chamo Henédio Bernardino Pedrosa Neto, estudante de Relações Inte
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
 </a>
 <a href="https://gitlab.com/HenedioNeto" target="_blank">
-  <img src="	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
 </div>
 <br>
