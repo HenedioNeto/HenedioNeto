@@ -1,6 +1,6 @@
 # Olá, Henédio Neto. 
 
-## Estudante de Relações Internacionais e atualmente fazendo parte do [laboratório de Relações Internacionais](https://labriunesp.org/) da UNESP Franca.<br> Apaixonado por programação e futuro cientista de dados.
+## Estudante de Relações Internacionais e atualmente fazendo parte do [laboratório de Relações Internacionais](https://labriunesp.org/) da UNESP Franca.
 
 ### Você também me encontrará aqui:
 <div style='display: inline'>
