@@ -4,14 +4,8 @@
 
 ### Você também me encontrará aqui:
 <div style='display: inline'>
-<a href="https://www.kaggle.com/henedioneto" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/henedio-neto-616706268/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.codewars.com/users/HenedioNeto/" target="_blank">
-  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
 </a>
 <a href="https://gitlab.com/HenedioNeto" target="_blank">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
